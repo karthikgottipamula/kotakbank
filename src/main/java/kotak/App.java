@@ -1,13 +1,13 @@
 package kotak;
 
 /**
- * welcome to jenkin!
+ * welcome to jekin!
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "welcome to jenkins!" );
+        System.out.println( "welcome to jekins!" );
     }
 }
